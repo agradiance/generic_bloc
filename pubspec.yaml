@@ -1,10 +1,11 @@
 name: generic_bloc
-description: "A new Flutter package project."
+description: "Bloc Simplified: Be Productive | Save your time"
 version: 0.0.1
 homepage:
+repository: https://github.com/agradiance/generic_bloc
 
 environment:
-  sdk: '>=3.4.0 <4.0.0'
+  sdk: ">=3.4.0 <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
